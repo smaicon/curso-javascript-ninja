@@ -24,7 +24,7 @@ souninja = true;
 
 // Declare uma variável chamada `comida` que recebe um array com os valores 'arroz', 'feijão' e 'ovo'.
 var comida = [];
-comida = ['arroz', 'feijao', 'ovo]
+comida = ['arroz', 'feijao', 'ovo']
 
 // Digite a instrução que imprime o valor de 'feijao', que está na variável `comida`.
 comida[1];
